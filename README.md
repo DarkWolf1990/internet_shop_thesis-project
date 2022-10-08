@@ -28,4 +28,4 @@ _____________
  __Устанавливаем файл requeriments.txt  следующей командой:__ 
  ``` pip install -r requirements.txt ``` 
  - __This file contains the entire list of packages for the site.__
- данный файл содержит весь список пакетов для работы сайта.__
+ __данный файл содержит весь список пакетов для работы сайта.__git
